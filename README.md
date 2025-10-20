@@ -43,8 +43,8 @@ Aplicația are ca obiectiv principal **monitorizarea progresului personal** și 
 
 ## ✨ Echipa
 👩‍💻 **Ștefana Solomon**  
-👨‍💻 **Turcanu Gheorghe**  
-👨‍💻 **Măculețchi Artiom**
+👨‍💻 **Țurcanu Gheorghe**  
+👨‍💻 **Maculețchi Artiom**
 
 ---
 
