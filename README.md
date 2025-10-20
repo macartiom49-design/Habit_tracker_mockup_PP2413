@@ -1,6 +1,6 @@
 # 🌿 Habit_Tracker_Mockup_PP2413  
 
-> ~Acesta este repo-ul lui **Ștefana Solomon**, **Turcanu Gheorghe** și **Măculețchi Artiom** pentru *Planificarea Aplicațiilor Web*~  
+> Acesta este repo-ul lui **Ștefana Solomon**, **Turcanu Gheorghe** și **Măculețchi Artiom** pentru *Planificarea Aplicațiilor Web*  
 
 ---
 
