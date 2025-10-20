@@ -26,19 +26,18 @@ Aplicația are ca obiectiv principal **monitorizarea progresului personal** și 
 ---
 
 ## 🧑‍🏫 Profesoară
-**(insertNumeProfesoara)**
+**(LMAOOO am uitat cum o cheama pe profa :(  T.T )**
 
 ---
 
 ## ⏰ Deadline
-**(InsertDeadline)**
+**(1 bahhilion years(change this lmao)**
 
 ---
 
 ## 🧩 Tehnologii & Instrumente
 - **Figma** – pentru designul și prototiparea interfeței  
-- **GitHub** – pentru colaborare și versionare  
-- *(posibil ulterior)* HTML / CSS / JavaScript – pentru implementare web  
+- **GitHub** – pentru colaborare și versionare    
 
 ---
 
