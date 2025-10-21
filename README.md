@@ -26,12 +26,12 @@ Aplicația are ca obiectiv principal **monitorizarea progresului personal** și 
 ---
 
 ## 🧑‍🏫 Profesoară
-**(LMAOOO am uitat cum o cheama pe profa :(  T.T )**
+**Tatiana Melnic**
 
 ---
 
 ## ⏰ Deadline
-**(1 bahhilion years(change this lmao)**
+**Sfarsit de semestru**
 
 ---
 
